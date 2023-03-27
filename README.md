@@ -4,4 +4,4 @@ Using an undocumented, "internalonly", API for `amplify:GetDistributionDetails`,
 
 ## Note
 
-As of March 24th, 2023 this technique no longer works. AWS has disabled the API. This repo will remain available as a means of showing a neat vuln in an AWS API. Details can be found in [this](https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/) blog post.
+As of March 24th, 2023 this technique no longer works. AWS has disabled the API. This repo will remain available as a means of showing a neat AWS API. Details can be found in [this](https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/) blog post.
